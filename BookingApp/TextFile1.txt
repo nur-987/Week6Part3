@@ -1,0 +1,28 @@
+﻿Need To Design A Ticket Booking System . 
+
+Conditions To Design  
+•	Total Number Of Seats Allotted By The Admin   Y
+•	The User Need To Sign Up / Login To Book The Ticket ,   Y
+If The User Is Already Present Then It Need To Show A Message And Ask To Log In. 
+•	Maximum Number Of Seats One Can Book Is Not More Than 3. Y
+•	User Must Have A Valid Phone Number And Emailid To Sign Up Y 
+•	Use Multi-Threading To Calculate Multiple Booking At A Time, 
+But The Seat Number Has To Be Different . Y
+Otherwise, It Will Show An Error Message. 
+•	Admin Has the Access to See the Booking Details Of Every User  Y
+Including The Payment Details.
+
+User Properties
+userId
+Login?
+Email
+Phone number 
+numTicketsBooked
+
+Ticket.cs
+TicketNumber = SeatNumber
+totalnumoftickets
+
+
+
+

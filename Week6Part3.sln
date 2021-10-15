@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingApp", "BookingApp\BookingApp.csproj", "{AAD38C64-91F4-457D-9824-462997A9134C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{9BB366E4-30F0-4515-8D83-426D5BA2A152}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAD38C64-91F4-457D-9824-462997A9134C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD38C64-91F4-457D-9824-462997A9134C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD38C64-91F4-457D-9824-462997A9134C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD38C64-91F4-457D-9824-462997A9134C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BB366E4-30F0-4515-8D83-426D5BA2A152}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BB366E4-30F0-4515-8D83-426D5BA2A152}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BB366E4-30F0-4515-8D83-426D5BA2A152}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BB366E4-30F0-4515-8D83-426D5BA2A152}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A65F4313-F72B-4402-B145-FB9364B83829}
+	EndGlobalSection
+EndGlobal
