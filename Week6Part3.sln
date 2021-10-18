@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingApp", "BookingApp\Bo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp1", "WpfApp1\WpfApp1.csproj", "{9BB366E4-30F0-4515-8D83-426D5BA2A152}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonExample", "JsonExample\JsonExample.csproj", "{5D52C5D4-8CBF-4C25-A240-12B11D8B4A82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9BB366E4-30F0-4515-8D83-426D5BA2A152}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9BB366E4-30F0-4515-8D83-426D5BA2A152}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9BB366E4-30F0-4515-8D83-426D5BA2A152}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D52C5D4-8CBF-4C25-A240-12B11D8B4A82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D52C5D4-8CBF-4C25-A240-12B11D8B4A82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D52C5D4-8CBF-4C25-A240-12B11D8B4A82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D52C5D4-8CBF-4C25-A240-12B11D8B4A82}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
